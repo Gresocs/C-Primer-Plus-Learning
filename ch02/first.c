@@ -1,4 +1,6 @@
-/* A simple c program */
+/* A simple c program code. */
+// A simple c program code.
+
 #include <stdio.h>
 
 int main(void)
